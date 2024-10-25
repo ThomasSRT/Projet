@@ -1,0 +1,7 @@
+/* import police */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+
+/* import des fichiers css */
+@import url('./utils.css');
+@import url('./style.css');
